@@ -1,6 +1,6 @@
-hellow world! hellow git! v2
-hellow world! hellow git! v3
-hellow world! hellow git!
+hellow world! hellow git! v0.2
+hellow world! hellow git! v0.3
+hellow world! hellow git! 
 hellow world! hellow git!
 hellow world! hellow git!
 hellow world! hellow git!
