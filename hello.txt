@@ -1,7 +1,7 @@
 hello world! hello git! v0.2
 hello world! hello git! v0.3
 hello world! hello git! v0.4
-hello world! hello git!
+hello world! hello git! v0.5
 hello world! hello git!
 hello world! hello git!
 hello world! hello git!
