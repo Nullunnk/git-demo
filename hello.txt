@@ -1,9 +1,9 @@
-hellow world! hellow git! v0.2
-hellow world! hellow git! v0.3
-hellow world! hellow git! v0.4
-hellow world! hellow git!
-hellow world! hellow git!
-hellow world! hellow git!
-hellow world! hellow git!
-hellow world! hellow git!
-hellow world! hellow git!
+hello world! hello git! v0.2
+hello world! hello git! v0.3
+hello world! hello git! v0.4
+hello world! hello git!
+hello world! hello git!
+hello world! hello git!
+hello world! hello git!
+hello world! hello git!
+hello world! hello git!
